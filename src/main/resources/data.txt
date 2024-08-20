@@ -1,0 +1,6 @@
+played: 16
+percentageWin: 0.875
+currentStreak: 1
+maxStreak: 12
+guessDistribution: 6 7 0 1 0 0
+prevRandomVal: 8680 12818 9626 7404 6811 11397 732 1850 5292 5466 13143 14306 9520 11343 5919 3961 8841 1350 656 
